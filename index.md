@@ -12,3 +12,5 @@
 ## Lessons
 
 - [01 - 06.12.2023](01)
+- [02 - 07.12.2023](02)
+- 03 - Maria Empfängnis - no lessons
